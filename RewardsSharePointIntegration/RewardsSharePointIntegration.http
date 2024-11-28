@@ -1,0 +1,6 @@
+@RewardsSharePointIntegration_HostAddress = http://localhost:5004
+
+GET {{RewardsSharePointIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
